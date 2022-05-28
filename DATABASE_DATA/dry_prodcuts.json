@@ -1,0 +1,62 @@
+[
+    {
+        "title": "15kg Royal Canin Size Dry Dog Food",
+        "image":"http://localhost:5000/images/dogs/dry/1.jpg",
+        "price":60,
+        "description":"Royal Canin - appropriate nutrition, not just food. Different dogs have different dietary needs. The nutritional concept of Royal Canin Health Nutrition and Royal Canin Breed dog food has been specifically adapted for the size, age, activity levels and life-style of each individual dog. Royal Canin dry dog food provides your dog with a complete, balanced diet to help keep your dog fit and healthy for a long life. As a pioneer of dry dog food, Royal Canin relies on intense research and the most modern production methods to create dog food of the highest quality.",
+        "category": "dry",
+        "rating": 55,
+        "size": "S",
+        "product_code":"DRY-1"
+    },
+    {
+        "title": "Royal Canin Maxi Puppy",
+        "image":"http://localhost:5000/images/dogs/dry/2.jpg",
+        "price":25,
+        "description":"Royal Canin Maxi Puppy is specially formulated to meet the nutritional needs of large breed puppies. The recipe is suitable for between the ages of 2-15 months, ideal for puppies with an expected adult weight of 26-44kg. The tailored nutrition contains nutrients such as vitamins C and E, which support your puppy's natural defences while the immune system is developing. Omega-3 fatty acids (such as DHA) encourage optimum brain development in puppies.",
+        "category": "dry",
+        "rating": 71,
+        "size": "S",
+        "product_code":"DRY-2"
+    },
+    {
+        "title": "Royal Canin Medium Puppy",
+        "image":"http://localhost:5000/images/dogs/dry/3.jpg",
+        "price":23,
+        "description":"Royal Canin Medium Puppy has been specially developed to meet the nutritional needs of medium breed puppies. The recipe is suitable for puppies aged between 2 and 12 months with an expected adult weight of 11-25kg. Nutrients such as vitamins C and E help to support your puppy's natural defences as its immune system continues to develop. Omega-3 fatty acids (e.g. DHA) help to ensure optimum brain development. FOS, MOS and beet pulp (prebiotic) combine with highly-digestible proteins to maintain balance in the gut microbiome and gut flora, ensuring functional digestion. The recipe of this Royal Canin Medium Puppy also contains a tailored energy content designed to meet the caloric needs of growing medium-breed puppies.",
+        "category": "dry",
+        "rating": 49,
+        "size": "S",
+        "product_code":"DRY-3"
+    },
+    {
+        "title": "Royal Canin Medium Adult 7+",
+        "image":"http://localhost:5000/images/dogs/dry/4.jpg",
+        "price":65,
+        "description":"As your dog ages, you will need to provide it with additional support to stay fit and healthy, which is the goal of this Royal Canin Medium Adult 7+ dry dog food. The kibble has been specially developed to support medium breed dogs over the age of 7 years. The protein content is specially tailored to meet the needs of a changing older dog.. The antioxidant complex can help to neutralise free radicals and support healthy cell structure. Prebiotics and a balanced fibre content help to ensure healthy gut function as your dog enters the later years of its life.",
+        "category": "dry",
+        "rating": 19,
+        "size": "S",
+        "product_code" : "DRY-4"
+    },
+    {
+        "title": "Royal Canin Medium Ageing 10+",
+        "image":"http://localhost:5000/images/dogs/dry/5.jpg",
+        "price":66,
+        "description":"Medium breed dogs tend to be more robust and agile than other dogs, with a broad range of activities and making perfect family pets as well as working dogs. This means that they have a specific tailored energy need. Royal Canin Medium Ageing 10+ is a special food for medium breed dogs over the age of 10 years, with an adapted energy content to meet all of your dog's needs during ageing.",
+        "category": "dry",
+        "rating": 10,
+        "size": "S",
+        "product_code":"DRY-5"
+    },
+    {
+        "title": "Royal Canin Giant Adult",
+        "image":"http://localhost:5000/images/dogs/dry/6.jpg",
+        "price":60,
+        "description":"There are certain dog breeds that weigh over 100kg, and these giant dogs require special care. Royal Canin Giant Adult has been specially develop for dogs with a bodyweight of over 45kg. The joints and bones of these breeds tend to be under considerable strain, so this dry food contains chondroitin and glucosamine to help maintain joint and bone structure.",
+        "category": "dry",
+        "rating": 36,
+        "size": "S",
+        "product_code":"DRY-6"
+    }       
+]

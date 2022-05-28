@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Pedigree Dentastix - Daily Oral Care",
+        "image":"http://localhost:5000/images/dogs/bones/1.jpg",
+        "price":60,
+        "description":"Chewing, playing, eating - dogs use their teeth for lots of activities so it is important to keep them clean on a daily basis. Pedigree Dentastix - Daily Oral Care make it easy to take care of your dog's teeth and gums. They are clinically proven to reduce the build-up of plaque by up to 80% when given to your dog on a daily basis thanks to the combination of their special shape and the active cleaning ingredients",
+        "category": "bones",
+        "rating": 42,
+        "size": "S",
+        "product_code":"BONES-1"
+    },
+    {
+        "title": "Pedigree Dentastix Fresh - Daily Freshness",
+        "image":"http://localhost:5000/images/dogs/bones/2.jpg",
+        "price":30,
+        "description":"Pedigree Dentastix Fresh - Daily Freshness is designed to be chewed for long enough to be effective. Its gently abrasive texture, combined with active ingredients that work with your dog's saliva, helps reduce the build-up of plaque and tartar. The added Green Tea Extract and Eucalyptus Oil also freshen breath, but it's not just the dental benefits that you can feel good about.",
+        "category": "bones",
+        "rating": 15,
+        "size": "S",
+        "product_code":"BONES-2"
+    },
+    {
+        "title": "Pedigree Dentastix Advanced",
+        "image":"http://localhost:5000/images/dogs/bones/3.jpg",
+        "price":19,
+        "description":"These Pedigree Dentastix Advanced dental care snacks offer long-lasting chewing enjoyment for dogs, specially developed to help support oral health. The flexible structure of the snacks means that the teeth get fully surrounded by chewing, helping to ensure deep cleaning. This can help to reduce the build up of plaque around the gums.",
+        "category": "bones",
+        "rating": 0,
+        "size": "S",
+        "product_code":"BONES-3"
+    },
+    {
+        "title": "Pedigree Dentastix Chewy Chunx",
+        "image":"http://localhost:5000/images/dogs/bones/4.jpg",
+        "price":11,
+        "description":"With Pedigree Dentastix Chewy Chunx, you can help your dog take better care of their teeth while giving them a delicious treat to enjoy. They combine a great tasting snack with an efficient way to support good dental hygiene.",
+        "category": "bones",
+        "rating": 0,
+        "size": "S",
+        "product_code":"BONES-4"
+    },
+    {
+        "title": "Pedigree Jumbone Maxi - Beef & Poultry",
+        "image":"http://localhost:5000/images/dogs/bones/5.jpg",
+        "price":27,
+        "description":"The Pedigree Giant Bone is a tasty treat for large adult dogs which love to chew on bones. It is a safe alternative to natural bones which can splinter and harm your pet. The Maxi Giant Pedigree Bone is a delicious combination of crunchy outer and meaty filling and designed to make your pet chew for ages. Your dog will love this great tasting giant chew bone which is also rich in essential vitamins, minerals, calcium and omega-3 fatty acids.",
+        "category": "bones",
+        "rating": 6,
+        "size": "S",
+        "product_code":"BONES-5"
+    },
+    {
+        "title": "Pedigree Jumbone Medium - Chicken & Lamb",
+        "image":"http://localhost:5000/images/dogs/bones/6.jpg",
+        "price":27,
+        "description":"Pedigree Jumbone Medium is the perfect longer lasting treat for your dog. Jumbone cleverly combines a hard chewy outer with a delicious meaty chicken & lamb flavour centre – something to really get those teeth into! A delicious chewy outer bone and delicious meaty core gives your dog the variety of two treats in one. The Pedigree Jumbone is enriched with valuable vitamins, minerals, calcium and omega-3 fatty acids",
+        "category": "bones",
+        "rating": 6,
+        "size": "S",
+        "product_code":"BONES-6"
+    }
+]

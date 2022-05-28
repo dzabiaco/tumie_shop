@@ -96,7 +96,7 @@
         <div class="row">
           <div class="col-12">
             <div class="footer-bottom-content">
-              <p class="copyright">© 2021 Tuime. Made with <i class="fa fa-heart"></i> by Petr Pasenko</p>
+              <p class="copyright">© 2022 Tuime. Made with <i class="fa fa-heart"></i> by Petr Pasenco</p>
               <div class="payment">
                 <router-link to="/account"><img src="../assets/img/photos/payment.png" width="192" height="21" alt="Payment Logo"></router-link>
               </div>

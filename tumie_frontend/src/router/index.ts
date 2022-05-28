@@ -92,20 +92,13 @@ const router = createRouter({
 });
 
 function guardMyroute(to:any, from:any, next:any)
-{
-  let isAuthenticated= false;
+{ let isAuthenticated= false;
   if(localStorage.getItem('user'))
     isAuthenticated = true;
   else
     isAuthenticated= false;
-  if(isAuthenticated)
-  {
-    next(); // allow to enter route
-  }
-  else
-  {
-    next('/account-login'); // go to '/login';
-  }
+  if(isAuthenticated) { next(); }
+  else { next('/account-login'); }
 }
 
 export default router

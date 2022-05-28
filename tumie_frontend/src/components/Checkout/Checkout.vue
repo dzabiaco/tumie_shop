@@ -77,13 +77,13 @@
                       </div>
                       <div class="col-md-12">
                         <div class="form-group">
-                          <label for="pz-code">Postcode / ZIP (optional)</label>
+                          <label for="pz-code">Postcode / ZIP</label>
                           <input id="pz-code" type="text" v-model.trim="zip" class="form-control">
                         </div>
                       </div>
                       <div class="col-md-12">
                         <div class="form-group">
-                          <label for="phone">Phone (optional)</label>
+                          <label for="phone">Phone</label>
                           <input id="phone" type="text"  v-model.trim="phone" class="form-control">
                         </div>
                       </div>

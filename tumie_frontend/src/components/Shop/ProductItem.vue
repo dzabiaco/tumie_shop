@@ -25,7 +25,7 @@
       <!--== End Page Header Area Wrapper ==-->
 
       <!--== Start Product Single Area Wrapper ==-->
-      <section class="product-area product-single-area">
+      <section class="product-area product-single-area" ref="top_product">
         <div class="container">
           <div class="row">
             <div class="col-12">
@@ -101,6 +101,7 @@
           </div>
           <div class="row">
             <ProductRelated v-for="product in related_products"
+                            @click="selectProduct(product._id)"
                             :key="product._id"
                             :id="product._id"
                             :image="product.image"
@@ -152,6 +153,11 @@ name: "ProductItem",
     }
   },
   methods: {
+    async selectProduct(id){
+      await this.$store.dispatch('products/loadProduct', id);
+      const top_product = this.$refs["top_product"].offsetTop-50;
+      window.scrollTo(0,top_product);
+    },
     addToCart(){
       const selectedProduct = {
         ...this.selectedProduct,

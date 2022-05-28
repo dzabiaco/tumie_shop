@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Applaws Taste Toppers in Broth Mixed Pack 8",
+        "image":"http://localhost:5000/images/dogs/wet/1.jpg",
+        "price":18,
+        "description":"Add something special to your dog’s food bowl with this Applaws Taste Toppers in Broth Mixed Pack, developed to refine your dog’s daily meals with a tasty mix of natural ingredients. This supplementary food contains tender strips of chicken in delicious broth, with each variety combining animal and plant components for irresistible flavour.",
+        "category": "wet",
+        "rating": 0,
+        "size": "S",
+        "product_code":"WET-1"
+    },
+    {
+        "title": "Applaws Taste Toppers Trial Pack 6",
+        "image":"http://localhost:5000/images/dogs/wet/2.jpg",
+        "price":10,
+        "description":"Tasty chunks that make the perfect topping for dry food, this Applaws Taste Toppers Trial Pack supplementary wet dog food is ideal for small dogs and puppies from 3 months old. Each variety contains meat or fish combined with selected vegetables, appetisingly encased in gravy or broth.",
+        "category": "wet",
+        "rating": 0,
+        "size": "S",
+        "product_code":"WET-2"
+    },
+    {
+        "title": "Burns Hearty Lamb, Vegetables & Brown Rice",
+        "image":"http://localhost:5000/images/dogs/wet/3.jpg",
+        "price":16,
+        "description":"The Burns range of wet dog food includes three delicious varieties of moist food for dogs. This Lamb, Vegetables & Brown rice variety is made from premium quality lamb and the recipe is adapted to your dog's natural requirements. The handy pouches are the perfect size for meal times and form the basis for a healthy, balanced diet. They are ethically produced and made using as many ingredients from the Burns' own farm as possible. Those ingredients not grown on the farm are from sustainable, ethical sources.",
+        "category": "wet",
+        "rating": 10,
+        "size": "S",
+        "product_code":"WET-3"
+    },
+    {
+        "title": "Burns Variety Box Wet Dog Food 6",
+        "image":"http://localhost:5000/images/dogs/wet/4.jpg",
+        "price":15,
+        "description":"A complete wet dog food made with only wholesome ingredients, vitamins and minerals. With a hypoallergenic recipe that is ideal for dogs with sensitive digestion. The Burns Variety Pack includes three delicious varieties of wet food for dogs.",
+        "category": "wet",
+        "rating": 18,
+        "size": "S",
+        "product_code":"WET-4"
+    },
+    {
+        "title": "Royal Canin Breed Chihuahua",
+        "image":"http://localhost:5000/images/dogs/wet/5.jpg",
+        "price":12,
+        "description":"The Chihuahua, the smallest of dogs, has a small frame, a quick mind and glossy, thick fur. This popular companion dog is unlike any other dog breed and is a favourite choice as a house dog, given its small size. As well as its unique outward appearance, this breed has a challenging character and is eager to learn, but requires specialised nutrition. This Royal Canin Breed Chihuahua is specially tailored to the nutritional needs of adult Chihuahuas over the age of 8 months.",
+        "category": "wet",
+        "rating": 14,
+        "size": "S",
+        "product_code":"WET-5"
+    },
+    {
+        "title": "Royal Canin Breed Dachshund",
+        "image":"http://localhost:5000/images/dogs/wet/6.jpg",
+        "price":12,
+        "description":"The Dachshund is a bold dog and a great hunter, with its characteristic silhouette and short limbs, as well as its own personal needs. The Royal Canin Breed Dachshund wet dog food can help to support joints and bones and can help to satisfy your dog's appetite. The special recipe can help to maintain muscle mass. This nimble dog is incomparable to any other breed, with its curved but sensitive limbs and ability to track badgers and hares straight into their dens.",
+        "category": "wet",
+        "rating": 13,
+        "size": "S",
+        "product_code":"WET-6"
+    }                
+]

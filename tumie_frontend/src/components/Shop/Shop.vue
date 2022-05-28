@@ -57,12 +57,12 @@
                   <div class="banner-product-single-style2-item">
                     <div class="thumb">
                       <router-link to="/shop">
-                        <img src="../../assets/img/shop/banner/3.jpg" width="870" height="247" alt="Image-HasTech">
+                        <img src="../../assets/img/shop/banner/3_1.jpg" width="870" height="247" alt="Image-HasTech">
                       </router-link>
                     </div>
                     <div class="content">
-                      <h5 class="sub-title">-25%  Off </h5>
-                      <h5 class="title">Pet Food, Medicin & Shop With Us</h5>
+<!--                      <h5 class="sub-title">-25%  Off </h5>-->
+                      <h3 class="title">Pet Food, Medicin & Shop With Us</h3>
 <!--                      <a class="btn-theme-link" href="shop.html">Shop Now</a>-->
                     </div>
                   </div>
@@ -113,11 +113,11 @@
                   <div class="sidebar-category">
                     <ul class="category-list mb--0">
                       <li @click="loadProductsFromCategory('all')"><a style="cursor: pointer;">All </a></li>
-                      <li @click="loadProductsFromCategory('cat')"><a style="cursor: pointer;">Cats </a></li>
-                      <li @click="loadProductsFromCategory('fish')"><a style="cursor: pointer;">Gold Fish </a></li>
-                      <li @click="loadProductsFromCategory('bird')"><a style="cursor: pointer;">Parrot </a></li>
-                      <li @click="loadProductsFromCategory('dog')"><a style="cursor: pointer;">Dog </a></li>
-                      <li @click="loadProductsFromCategory('rabbits')"><a style="cursor: pointer;">Rabbits </a></li>
+                      <li @click="loadProductsFromCategory('dry')"><a style="cursor: pointer;">Dry food</a></li>
+                      <li @click="loadProductsFromCategory('wet')"><a style="cursor: pointer;">Wet food</a></li>
+                      <li @click="loadProductsFromCategory('bones')"><a style="cursor: pointer;">Treats & Bones</a></li>
+                      <li @click="loadProductsFromCategory('special')"><a style="cursor: pointer;">Supplements & Special Food</a></li>
+<!--                      <li @click="loadProductsFromCategory('rabbits')"><a style="cursor: pointer;">Rabbits </a></li>-->
                     </ul>
                   </div>
                 </div>
@@ -175,7 +175,7 @@ name: "Shop",
       if(this.search_value === ''){
         return;
       }
-      this.$store.dispatch('products/searchProduct', this.search_value)
+      this.$store.dispatch('products/searchProduct', this.search_value.toLowerCase())
     },
     sortByOption(event){
       const value = event.target.value;

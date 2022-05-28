@@ -6,5 +6,4 @@ const router = express.Router();
 
 router.post(`/contact`, contactController.sendEmail);
 
-
 module.exports = router;

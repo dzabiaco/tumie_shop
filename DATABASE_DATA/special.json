@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Royal Canin Veterinary Canine Dental",
+        "image":"http://localhost:5000/images/dogs/special/1.jpg",
+        "price":88,
+        "description":"Good oral hygiene is just as important for your canine companion. Royal Canin Veterinary Canine Dental is a special dietetic food designed to provide your pooch with optimum nutrition. This dog food is made up of tasty kibble that comes in a special shape, texture and size. This creates a brushing effect that can help to clean the teeth and, therefore, reduces the risk of tartar and promotes a healthy mouth overall",
+        "category": "special",
+        "rating": 8,
+        "size": "S",
+        "product_code":"SPECIAL-1"
+    },
+    {
+        "title": "Bosch Special Light Dry Dog Food",
+        "image":"http://localhost:5000/images/dogs/special/2.jpg",
+        "price":33,
+        "description":"Bosch Special Light Dry Dog Food is the perfect wheat-free diet for adult dogs that suffer from liver or kidney problems. It contains reduced levels of protein and minerals, and has been specially developed to relieve strain on your dog's metabolism and help to prevent urinary gravel and kidney stones. The added immune complex contains mannans and beta glucans to help stabilise your dog's gut flora and strengthen their immune system.",
+        "category": "special",
+        "rating": 5,
+        "size": "S",
+        "product_code":"SPECIAL-2"
+    },
+    {
+        "title": "YuMOVE Joint Care for Adult Dogs",
+        "image":"http://localhost:5000/images/dogs/special/3.jpg",
+        "price":30,
+        "description":"Give your dog their mojo back with YuMOVE Joint Care for Adult Dogs, previously YuMOVE Adult Dog. This clinically proven formula is packed with high-quality ingredients to help your dog play like a puppy. YuMOVE's unique form of ActivEase® Green Lipped Mussel (GLM) contains higher levels of Omega-3 fatty acids than other standard GLM powders. It's a similar story with Hyaluronic Acid.",
+        "category": "special",
+        "rating": 35,
+        "size": "S",
+        "product_code":"SPECIAL-3"
+    },
+    {
+        "title": "Beaphar 'Bonbons' with Salmon Oil",
+        "image":"http://localhost:5000/images/dogs/special/4.jpg",
+        "price":6,
+        "description":"These delicious beaphar 'Bonbons' with Salmon Oil are made from sheep fat with a salmon oil coating (5%). They are ideal treats or rewarding little bites that also offer your dog a range of different health benefits. They are rich in omega-3, -6 and -9 fatty acids that help to support healthy skin and glossy fur.",
+        "category": "special",
+        "rating": 12,
+        "size": "S",
+        "product_code":"SPECIAL-4"
+    },
+    {
+        "title": "Trixie Garlic Supplement for Dogs",
+        "image":"http://localhost:5000/images/dogs/special/5.jpg",
+        "price":20,
+        "description":"Ticks and fleas can be the unpleasant side effect of many happy hours spent in the countryside with your dog. The Trixie Garlic Supplement for Dogs are not only delicious but can also help to combat unpleasant parasite infestations. The natural active ingredients can help to create an environment on your pet's skin that is inhospitable to pets and can help to prevent fleas and ticks settling in. Garlic can also have health-promoting effects, leading to improved wellbeing and boosting the cardiovascular system.",
+        "category": "special",
+        "rating": 22,
+        "size": "S",
+        "product_code":"SPECIAL-5"
+    },
+    {
+        "title": "Beaphar 'Bonbons' with Garlic",
+        "image":"http://localhost:5000/images/dogs/special/6.jpg",
+        "price":14,
+        "description":"Beaphar 'Bonbons' with Garlic are the ideal treat for dogs of all breeds. The 'bonbons' not only taste delicious but can also help to support glossy coat, healthy skin and a balanced digestive system. They are made from sheep fat and garlic. The beaphar 'Bonbons' with Garlic have a soft consistency and are easy to divide and chew. The delicious flavour means that they are well-accepted by many dogs. beaphar 'Bonbons' with Garlic contains exclusively natural ingredients, with no artificial additives or grains.",
+        "category": "special",
+        "rating": 0,
+        "size": "S",
+        "product_code":"SPECIAL-6"
+    }
+]

@@ -2,9 +2,6 @@ const mongoose = require('mongoose');
 
 const ProductSchema = new mongoose.Schema(
     {
-        // type: { type: String, enum: ['course', 'classroom'], required: true },
-        // slug: { type: String, required: true },
-        // postid: { type: String, required: true },
         title: {type: String},
         image: {type: String},
         price: {type: Number},
@@ -18,8 +15,6 @@ const ProductSchema = new mongoose.Schema(
     { collection: 'products' },
     {timestamps: true}
 )
-
-// PostSchema.index({ slug: 1, postid: 1 }, { unique: true })
 
 const model = mongoose.model('Products', ProductSchema)
 module.exports =  model;
